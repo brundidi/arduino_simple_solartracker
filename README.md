@@ -57,13 +57,8 @@
     </ol>
   </section>
 
-  <section class="license">
-    <h2>License</h2>
-    <p>This project is licensed under the <strong>MIT License</strong>.</p>
-  </section>
-
   <footer>
-    <p>&copy; 2025 Solar Tracker Project</p>
+    <p>&copy; Just an STI2D Project</p>
   </footer>
 </body>
 </html>
